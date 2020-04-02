@@ -1,0 +1,10 @@
+
+xintoy_app/xintoy_backend/env_xintoy/Lib/site-packages/__pycache__/
+
+*.pth
+
+*.py
+
+xintoy_app/xintoy_backend/env_xintoy/Lib/site-packages/asgiref-3.2.7.dist-info/INSTALLER
+
+xintoy_app/
